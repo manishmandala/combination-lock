@@ -10,6 +10,8 @@ The OnShape source file is no longer accessible, so this repo preserves the
 finished technical drawings: full assembly, exploded view with a complete
 bill of materials, and detail drawings of the custom-designed parts.
 
+![Lock assembly render, transparent housing showing the rotor stack](assets/lock-assembly-render.png)
+
 ## Full assembly
 
 ![Lock full assembly](assets/lock-full-assembly.png)
