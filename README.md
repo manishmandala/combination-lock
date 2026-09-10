@@ -2,7 +2,7 @@
 
 A working mechanical combination lock, designed in OnShape as part of Ohio
 State's First Year Engineering program (Team G10). The mechanism uses three
-rotors on a shared axle — each notched at a specific position — that only
+rotors on a shared axle - each notched at a specific position - that only
 align to release the deadbolt when the correct three-number combination is
 dialed in.
 
@@ -18,7 +18,7 @@ bill of materials, and detail drawings of the custom-designed parts.
 
 ## Exploded view & bill of materials
 
-Sixteen parts total — three rotors, two side panels, front/back plates, a
+Sixteen parts total - three rotors, two side panels, front/back plates, a
 handle, dial, connector piece, and the fasteners holding it together. Only
 the deadbolt subassembly (item 13) was a provided part; everything else was
 custom-designed.
@@ -34,7 +34,7 @@ integrate correctly with the custom rotor housing.
 
 ## Connector piece
 
-Custom part linking the dial to the front rotor — a tri-lobed key that
+Custom part linking the dial to the front rotor - a tri-lobed key that
 transmits rotation from the dial into the rotor stack.
 
 ![Connector piece](assets/connector-piece.png)
